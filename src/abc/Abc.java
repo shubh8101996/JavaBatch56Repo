@@ -9,6 +9,8 @@ public class Abc {
 
 		Abc ab = new Abc();
 
+		int a = 50;
+		
 	}
 
 }
