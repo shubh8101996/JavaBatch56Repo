@@ -18,6 +18,7 @@ public class LinkSet {
 		link.add('b');
 		link.add("shubham");
 		link.add(10.2);
+		link.add(23);
 
 
 		Iterator itr=link.iterator();

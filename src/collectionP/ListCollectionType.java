@@ -14,15 +14,7 @@ public class ListCollectionType {
 		list.add(10);
 		list.add("");
 		list.add("shubham");
-		list.add("shubham");
-		list.add("");
-		list.add("java");
-		list.add("");
-		list.add("shubham");
-		list.add(true);
-		list.add(23.43f);
-		list.add("");
-
+	
 //		for (Object a : list) {
 //
 //			System.out.println(a);

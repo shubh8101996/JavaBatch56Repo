@@ -15,9 +15,7 @@ public class SetCollectionP {
 		set.add("shubham");
 		set.add("shubham");
 		set.add(true);
-		set.add("");
-		set.add('c');
-		set.add(34.43);
+		
 		
 		
 		set.remove(10);
