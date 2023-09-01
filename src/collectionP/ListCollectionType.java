@@ -22,7 +22,6 @@ public class ListCollectionType {
 		list.add(true);
 		list.add(23.43f);
 		list.add("");
-		list.add(09);
 
 //		for (Object a : list) {
 //
